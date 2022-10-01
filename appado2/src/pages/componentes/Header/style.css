@@ -1,0 +1,35 @@
+*{
+    text-align: center;
+}
+
+header {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(255, 225, 0);
+    color: rgb(0, 0, 0);
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 15px;
+}
+header a {
+    color: rgb(254, 4, 4);
+    font-size: 23px;
+    font-family: fantasy;
+}
+header h2 {
+    font-size: xx-large;
+    font-family: fantasy;
+    font-style: oblique;
+}
+h1 {
+    background-color: rgba(50, 50, 45, 0.21);
+    color: black;
+}
+input {
+    text-align: left;
+    font-style: italic;
+    background-color: rgba(250, 235, 215, 0.666);
+    color:rgb(254, 4, 4);
+}
